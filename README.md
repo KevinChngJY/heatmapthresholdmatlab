@@ -9,6 +9,6 @@ h.Title='Heatmap';</code></pre>
  
 means that range 1-25 is the colour for [0 1 1], 25-30 is the colour [1 0 0].<br>
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Heatmap](https://github.com/KevinChngJY/heatmapthresholdmatlab/blob/master/heatmap.png)
 
 
